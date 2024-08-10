@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gokuonweb
-- 👀 I’m interested in coding, malware analysis, learning piano, travelling and exploring new places!
 - 🌱 I’m currently learning to continue learning! :)
-- 📫 How to reach me gokuonweb@gmail.com
+- 📫 Please report any bugs or suggestion for my codes at gokuonweb@gmail.com
 - ⚡ Fun fact: I lose track of time when I start coding!
